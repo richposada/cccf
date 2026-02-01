@@ -51,14 +51,14 @@ author:
 hero:
   enable: true
   hero_avatar: /images/01-1.jpg
-  hero_title: Hi! I’m Alex 👋
-  hero_subtitle: A digital explorer, coder, and Linux advocate
+  hero_title: Hi! We're the NSG 👋
+  hero_subtitle: We are a group of solution engineers from Microsoft's National Security Group
   hero_description: |
-    I’m a digital explorer, coder, and Linux advocate. This blog is my personal knowledge base on productivity, programming, and the freedom of information.
+    We help our customer build amazing things in Azure. This site is our knowledge base on the art of the possible.
 
-    Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world. Dive in, get inspired, and feel free to share your thoughts!
+    Here, we share ideas, tools, and methods that help us balance productivity with creativity while keeping control over our digital world. Dive in, get inspired, and feel free to share your thoughts!
   hero_image: /images/01.jpg
-  hero_image_caption: My creative space, where masterpieces are born
+  hero_image_caption: Our creative space, where masterpieces are born
   hero_button_text: Let’s Work Together
   hero_button_link: '/contact/'
 
@@ -66,7 +66,7 @@ hero:
 # Logos
 logos:
   enable: true
-  logos_title: Nerd Stuff
+  logos_title: Cool Stuff
   logo_image:
     - alt: "Game Boy"
       image: "/images/1000.jpg"

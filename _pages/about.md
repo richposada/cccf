@@ -5,7 +5,7 @@ permalink: /about/
 image: '/images/01-2.jpg'
 ---
 
-Hey, I’m Alex - part developer, part digital explorer, and full-time lover of all things tech. From crafting lines of code on Linux to unraveling the layers of cybersecurity, my passion for technology goes beyond just a career.
+Hi, we're Solution Engineers with Microsoft National Security Group. We spend our days helping government customers build amazing things with Azure, GitHub, and the full Microsoft stack. Whether it's modernizing apps, wrangling AI services, or diving into DevSecOps pipelines, we're all about finding the right tech to solve real problems. When we're not deep in cloud architecture or Copilot demos, you'll probably find us geeking out over the latest in security and infrastructure.
 
 {: .note }
 Even the most experienced developers don't know everything
