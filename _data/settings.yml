@@ -51,14 +51,14 @@ author:
 hero:
   enable: true
   hero_avatar: /images/02-4.jpg
-  hero_title: Hi! We're the NSG 👋
-  hero_subtitle: We are a group of solution engineers from Microsoft's National Security Group
+  hero_title: Hi. Nice to meet you. 👋
+  hero_subtitle: We are a group of solution engineers creating innovative solutions for our National Security customers.
   hero_description: |
-    We help our customer build amazing things in Azure. This site is our knowledge base on the art of the possible.
+    We help our customers build amazing things in Azure. This site is our knowledge base on the art of the possible.
 
-    Here, we share ideas, tools, and methods that help us balance productivity with creativity while keeping control over our digital world. Dive in, get inspired, and feel free to share your thoughts!
+    Here, we share ideas, code, and solutions that help our customers balance productivity with creativity while keeping control over our digital world. Dive in, get inspired, and no clearance required!
   hero_image: /images/01.jpg
-  hero_image_caption: Our creative space, where masterpieces are born
+  hero_image_caption: 
   hero_button_text: Let’s Work Together
   hero_button_link: '/contact/'
 
