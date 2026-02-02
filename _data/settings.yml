@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
 title: Coffee, Code, and Clearance-Free
-description: Unclassified thoughts on software, data, AI, productivity.
-logo: # You can add own logo. For example '/images/logo.png'.
+description: Unclassified thoughts on software, data, AI, and Azure
+logo: #/images/logo.png
 logo_dark:
 
 
@@ -50,13 +50,15 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_avatar: /images/02-4.jpg
+  hero_avatar: 
   hero_title: Hi. Nice to meet you. 👋
-  hero_subtitle: We are a group of solution engineers creating innovative solutions for our National Security customers.
+  hero_subtitle: Grab some coffee, get inspired, and no clearance required!
   hero_description: |
-    We help our customers build amazing things in Azure. This site is our knowledge base on the art of the possible.
-
-    Here, we share ideas, code, and solutions that help our customers balance productivity with creativity while keeping control over our digital world. Dive in, get inspired, and no clearance required!
+    We are a group of solution engineers creating innovative solutions for our customers in highly secure environments.
+    
+    Here, we share ideas, code, and solutions that help our customers balance productivity with creativity while keeping control over our digital world.
+    
+    We help our customers build amazing things in Azure and this site is our knowledge base on the art of the possible.
   hero_image: /images/01.jpg
   hero_image_caption: 
   hero_button_text: Let’s Work Together
