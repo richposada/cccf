@@ -19,7 +19,7 @@ layout: default
         </div>
         {% else %}
         {% if page.image %}
-        <div class="post-image">
+        <div class="post-image" style="height:60%; width:60%;">
           <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
         </div>
         {% endif %}
@@ -37,15 +37,16 @@ layout: default
 
           <h1 class="post-title">{{ page.title | escape }}</h1>
 
+          {% assign post_author = site.data.authors[page.author] | default: site.data.settings.author %}
           <div class="post-meta">
             <a href="{{ '/about/' |relative_url }}" class="post-meta__image">
-              <img class="lazy" data-src="{{ site.data.settings.author.author_avatar | relative_url }}"
+              <img class="lazy" data-src="{{ post_author.author.author_avatar | relative_url }}"
                 alt="{{ site.data.settings.author.author_name }}">
             </a>
 
+            
             <div class="post-meta__content">
-              <a class="post-meta__author" href="{{ '/about/' |relative_url }}">{{ site.data.settings.author.author_name
-                }}</a>
+              <a class="post-meta__author" href="{{ '/about/' |relative_url }}">{{ post_author.author_name }}</a>
               <div class="post-meta__bottom">
                 <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%d %-b, %Y" %}{{ page.date | date: date_format }}</time> –
                 <span class="post-minutes">
