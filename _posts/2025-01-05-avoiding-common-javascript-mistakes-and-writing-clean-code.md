@@ -63,3 +63,4 @@ If you’re uncertain, Python is often recommended for beginners because of its 
 ```
 
 Learning to code is a journey, and consistent practice is essential. Building simple projects, solving problems, and collaborating with other learners are effective ways to progress. It’s normal to feel challenged at times, but every obstacle helps you grow as a developer. Enjoy the process, and don't be afraid to experiment with code!
+
